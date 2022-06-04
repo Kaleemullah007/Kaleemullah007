@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kaleemullah
+- 👀 I’m interested in web development in php and it's framwork laravel
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 Kaleemullahdev@gmail.com
+- 📫  https://www.linkedin.com/in/kaleem-ullah-51617715a
