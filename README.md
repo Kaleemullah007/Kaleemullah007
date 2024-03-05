@@ -5,15 +5,14 @@
 <h3 align="center">A Passionate and Self-taught Fullstack developer from Pakistan</h3>
 <br/>
 <p align="left">
-  <a href="http://twitter.com/RKaleemullah007">
-    <img src="![image](https://github.com/Kaleemullah007/Kaleemullah007/assets/36308751/c5753664-dfce-429b-969b-b6bd2e41dc03)
-&label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Rao Kaleemullah Twitter"/>
+   <a href="http://twitter.com/Kaleemullah007">
+    <img src="https://img.shields.io/badge/follow-%40themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Kaleemullah Rao Twitter"/>
+  </a>
+  <a href="http://github.com/MahekUnnisa">
+    <img src="https://komarev.com/ghpvc/?username=mahekunnisa&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Kaleemullah Rao Github visits"/>
   </a>
   <a href="http://github.com/Kaleemullah007">
-    <img src="https://komarev.com/ghpvc/?username=Kaleemullah007&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Rao Kaleemullah Github visits"/>
-  </a>
-  <a href="http://github.com/Kaleemullah007">
-    <img width="36%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleemullah007&layout=compact&theme=radical&hide_border=true" />
+    <img width="36%" align="right" src="https://media.licdn.com/dms/image/D4D03AQFkEU3_tTaTeQ/profile-displayphoto-shrink_400_400/0/1703261508781?e=1715212800&v=beta&t=S99wj8Z64YNvFT3vXen8ksUKxLa-K16z3VdEfkrX4SM?layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
