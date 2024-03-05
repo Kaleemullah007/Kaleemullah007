@@ -6,7 +6,7 @@
 <br/>
 <p align="left">
   <a href="http://twitter.com/RKaleemullah007">
-    <img src="https://img.shields.io/badge/follow-%40themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Rao Kaleemullah Twitter"/>
+    <img src="https://media.licdn.com/dms/image/D5635AQHnKEwq6TMhYA/profile-framedphoto-shrink_400_400/0/1707916260476?e=1710162000&v=beta&t=5IqgIUhf1snmWCF14k_jhJ-m0XD0AG2sk0irkh1_aJM?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Rao Kaleemullah Twitter"/>
   </a>
   <a href="http://github.com/Kaleemullah007">
     <img src="https://komarev.com/ghpvc/?username=Kaleemullah007&label=GITHUB+ +VISITS&style=for-the-badge&color=ff69b4" alt="Rao Kaleemullah Github visits"/>
