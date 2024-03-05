@@ -11,10 +11,10 @@
   <a href="http://github.com/Kaleemullah007">
     <img src="https://media.licdn.com/dms/image/D4D03AQFkEU3_tTaTeQ/profile-displayphoto-shrink_400_400/0/1703261508781?e=1715212800&v=beta&t=S99wj8Z64YNvFT3vXen8ksUKxLa-K16z3VdEfkrX4SM" alt="Kaleemullah Rao Github visits"     style="width: 100px;
     height: 100px;
-    border-radius: 50%;    border-radius: 50%;
-    display: flex;
-    margin-left: 37px;
-    margin-top: 20px; " />
+    border-radius: 50% !important;    
+    display: flex !important;
+    margin-left: 37px !important;
+    margin-top: 20px !important; " />
   </a>
 
 </p>
