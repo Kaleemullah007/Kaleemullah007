@@ -9,14 +9,7 @@
     <img src="https://img.shields.io/badge/follow-%40themahekunnisa?label=Twitter&logo=twitter&style=for-the-badge&color=darkblue" alt="Kaleemullah Rao Twitter"/>
   </a>
   <a href="http://github.com/Kaleemullah007">
-    <img src="https://media.licdn.com/dms/image/D4D03AQFkEU3_tTaTeQ/profile-displayphoto-shrink_400_400/0/1703261508781?e=1715212800&v=beta&t=S99wj8Z64YNvFT3vXen8ksUKxLa-K16z3VdEfkrX4SM" alt="Kaleemullah Rao Github visits"     style="
-       border-radius: 50% !important;    
-    display: flex !important;
-    margin-left: 37px !important;
-    margin-top: 20px !important;
-width: 100px;
-    height: 100px;
-  " />
+    <img src="https://media.licdn.com/dms/image/D4D03AQFkEU3_tTaTeQ/profile-displayphoto-shrink_400_400/0/1703261508781?e=1715212800&v=beta&t=S99wj8Z64YNvFT3vXen8ksUKxLa-K16z3VdEfkrX4SM" alt="Kaleemullah Rao Github visits" style="border-radius: 50% !important;display: flex !important;margin-left: 37px !important;margin-top: 20px !important;width: 100px;height: 100px;max-width: 100%;" />
   </a>
 
 </p>
